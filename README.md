@@ -1,4 +1,6 @@
-# -实验选取了wine-reviews数据集和OaklandCrime Statistics 2011 to 2016数据集
+# 数据挖掘作业
+
+#实验选取了wine-reviews数据集和OaklandCrime Statistics 2011 to 2016数据集
 
 oakland.ipynb 为OaklandCrime Statistics 2011 to 2016的数据摘要和可视化
 oakland1.ipynb为OaklandCrime Statistics 2011 to 2016的数据缺失处理
