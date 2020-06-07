@@ -12,3 +12,9 @@ Untitle1.html为wine-reviews的数据缺失处理
 
 wine data.html 为数据处理代码
 
+#更新第三次作业
+
+选取Video Game Sales 数据集
+
+video game.html为数据处理代码
+
